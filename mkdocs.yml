@@ -1,0 +1,26 @@
+site_name: Photon Documentation
+theme:
+  name: material
+  palette:
+    scheme: preference
+    primary: black
+    accent: teal
+  font:
+    text: Inter
+    code: Fira Code
+  language: en
+  favicon: images/favicon.ico
+  features:
+    - navigation.instant
+    - navigation.tabs
+  icon:
+    repo: fontawesome/brands/git-alt
+plugins:
+  - search
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/project-proton/docs
+copyright: '&copy; 2021 raphtlw'
+repo_url: https://github.com/project-proton/docs
+repo_name: proton/docs
