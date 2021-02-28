@@ -6,8 +6,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Install dependencies
-        run: pip3 install mkdocs-material
+      # - name: Install dependencies
+      #   run: pip3 install mkdocs-material
       - name: Build and Deploy
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
