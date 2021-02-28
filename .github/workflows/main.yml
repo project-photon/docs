@@ -12,4 +12,3 @@ jobs:
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
           GITHUB_TOKEN: ${{ github.token }}
-          CONFIG_FILE: ${{ github.workspace }}/mkdocs.yml
