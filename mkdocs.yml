@@ -21,6 +21,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/project-photon/docs
-copyright: '&copy; 2021 raphtlw'
+copyright: "&copy; 2021 raphtlw"
 repo_url: https://github.com/project-photon/docs
 repo_name: photon/docs
+edit_uri: ""

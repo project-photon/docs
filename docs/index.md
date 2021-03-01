@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# photon
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+A robust new web protocol that is focused on privacy, security, encryption and speed.
 
-## Commands
+Photon:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+  - Is heavier than Gemini
 
-## Project layout
+  - Is lighter than the web
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+  - Will not replace either
+
+  - Takes privacy very seriously
